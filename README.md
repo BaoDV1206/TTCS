@@ -28,6 +28,6 @@ Nếu Infix[i] là “)” thì Pop vào ngăn xếp S (lấy giá trị tr�
   Kết quả của biểu thức chính là phần tử còn lại cuối cùng trong ngăn xếp S.
   
 3)Tìm hiểu công cụ lập trình.
-	-Visual Studio Code là một trình soạn thảo mã nguồn nhẹ nhưng mạnh mẽ, chạy trên máy tính để bàn của bạn và có sẵn cho Windows, macOS và Linux. Nó đi kèm với hỗ trợ tích hợp cho JavaScript, TypeScript và Node.js và có một hệ sinh thái mở rộng phong phú cho các ngôn ngữ khác (chẳng hạn như C ++, C #, Java, Python, PHP, Go) và thời gian chạy (chẳng hạn như .NET và Unity) . Bắt đầu hành trình của bạn với VS Code bằng các video giới thiệu này.
+-Visual Studio Code là một trình soạn thảo mã nguồn nhẹ nhưng mạnh mẽ, chạy trên máy tính để bàn của bạn và có sẵn cho Windows, macOS và Linux. Nó đi kèm với hỗ trợ tích hợp cho JavaScript, TypeScript và Node.js và có một hệ sinh thái mở rộng phong phú cho các ngôn ngữ khác (chẳng hạn như C ++, C #, Java, Python, PHP, Go) và thời gian chạy (chẳng hạn như .NET và Unity) .
 
 

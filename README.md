@@ -20,7 +20,6 @@ Em xin chân thành cảm ơn!
 Mục tiêu cần đạt được
 Vận dụng phương pháp lập trình hướng đối tượng xây dựng cấu trúc ngăn xếp (Stack) áp dụng tính giá trị biểu thức đại số.
 
-![logo_ntu](https://user-images.githubusercontent.com/83891825/147425230-f01913f9-2370-4eae-bedb-7bb8da494d00.jpg)
 
 
 MỤC LỤC
@@ -75,6 +74,8 @@ Top: Lấy giá trị của phần tử đầu tiên ở đỉnh của ngăn x�
 IsEmpty: Kiểm tra ngăn xếp trống hay không. Ngăn xếp trống là ngăn xếp không có phần tử nào.
 IsFull: Kiểm tra ngăn xếp đã đầy hay chưa. Thao tác này không phải lúc nào cũng có.
 Size: Lấy số lượng phần tử stack đang có.
+![image](https://user-images.githubusercontent.com/83891825/147425352-cd7b8820-3e48-41e6-a28a-9657f62fb47e.png)
+
 
 
 2.	Tìm hiểu giải thuật.
@@ -100,6 +101,8 @@ Tính giá trị biểu thức hậu tố
  	Kết quả của biểu thức chính là phần tử còn lại cuối cùng trong ngăn xếp S.
 
 3.	Tìm hiểu công cụ lập trình.
+![image](https://user-images.githubusercontent.com/83891825/147425365-e1672b48-2ba3-4917-bca3-a9a52368b328.png)
+
 	Công cụ lập trình ta sử dụng ở đây là Visual Studio Code
  	Visual Studio Code là một trình soạn thảo mã nguồn nhẹ nhưng mạnh mẽ, chạy trên máy tính để bàn của bạn và có sẵn cho Windows, macOS và Linux. Nó đi kèm với hỗ trợ tích hợp cho JavaScript, TypeScript và Node.js và có một hệ sinh thái mở rộng phong phú cho các ngôn ngữ khác (chẳng hạn như C ++, C #, Java, Python, PHP…) 
 	
@@ -283,6 +286,8 @@ Xây dựng thuật toán bằng Javascript và  mô tả thuật toán trên we
 2.	Code style.css
   
 3.	Giao diện Web
+	![image](https://user-images.githubusercontent.com/83891825/147425388-7b5753c2-2aa0-46b1-b0a4-48ff6f81ceaa.png)
+
 
  
 CHƯƠNG IV. KẾT LUẬN

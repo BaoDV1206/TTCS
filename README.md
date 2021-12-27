@@ -20,6 +20,7 @@ Em xin chân thành cảm ơn!
 Mục tiêu cần đạt được
 Vận dụng phương pháp lập trình hướng đối tượng xây dựng cấu trúc ngăn xếp (Stack) áp dụng tính giá trị biểu thức đại số.
 
+![logo_ntu](https://user-images.githubusercontent.com/83891825/147425230-f01913f9-2370-4eae-bedb-7bb8da494d00.jpg)
 
 
 MỤC LỤC

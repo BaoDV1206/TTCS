@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../Code_TTCS/design.js"></script>
+    <link rel="stylesheet" href="../Code_TTCS/style.css">
+    <title>Convert infix to postfix</title>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid"
+            style="justify-content: center;">
+            <span class="navbar-brand mb-0 h1">
+                Tính toán biểu thức đại số
+            </span>
+        </div>
+    </nav>
+    <div class="inputdata">
+ 
+        <!-- Taking infix expression as input -->
+        <span class="span1">
+            Nhập biểu thức đại số
+        </span>
+        <br>
+        <input type="text" placeholder="Biểu thức đại số"
+            id="infixvalue" class="input1">
+        <br>
+ 
+        <!-- InfixtoPostfix() function call-->
+        <button onclick="ob.BTDS()" class="btn1">
+            Tính </button>
+    </div>
+    <br>
+    <div class="output">
+ 
+        <!-- Postfix expression printed -->
+        <span style="font-size:1.4vw;  font-size: 2.2vw;">
+            Biểu thức hậu tố:
+            <span id="text"
+                style="color: black; font-weight: 600;">
+            </span>
+        </span>
+    </div>
+    <div class="output1">
+        <span style="font-size:1.4vw;  font-size: 2.2vw;">
+            Kết quả tính :
+            <span id="text1"
+                style="color: black; font-weight: 600;">
+            </span>
+        </span>
+    </div>
+</body>
+</html>
